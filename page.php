@@ -1,8 +1,9 @@
 <?php
 /* Default Page
 ================================ */
-get_header(); ?>
 
+get_header();
 
+include 'views/default-page.php';
 
-<?php get_footer(); ?>
+get_footer(); ?>

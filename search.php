@@ -1,8 +1,8 @@
 <?php
 /* Default Search Page
 ================================ */
-get_header(); ?>
+get_header();
 
+include 'views/search-page.php';
 
-
-<?php get_footer(); ?>
+get_footer(); ?>

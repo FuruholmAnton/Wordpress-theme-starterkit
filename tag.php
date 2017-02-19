@@ -1,8 +1,8 @@
 <?php
-/* Default Category Page
+/* Tag archive index page
 ================================ */
 get_header();
 
-include 'views/default-category.php';
+include 'views/default-tag.php';
 
 get_footer(); ?>

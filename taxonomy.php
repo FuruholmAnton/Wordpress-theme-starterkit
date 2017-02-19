@@ -1,8 +1,8 @@
 <?php
-/* Default Category Page
+/* Custom taxonomies
 ================================ */
 get_header();
 
-include 'views/default-category.php';
+include 'views/default-taxonomy.php';
 
 get_footer(); ?>

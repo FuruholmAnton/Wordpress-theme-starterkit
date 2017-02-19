@@ -1,2 +1,2 @@
 <?php
-include 'modules/search-form.php';
+include 'modules/search-form/search-form.php';

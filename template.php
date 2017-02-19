@@ -1,8 +1,8 @@
 <?php
 /* Default Template Page
 ================================ */
-get_header(); ?>
+get_header();
 
+include 'views/default-template.php';
 
-
-<?php get_footer(); ?>
+get_footer(); ?>

@@ -1,8 +1,8 @@
 <?php
 /* Single Post Page
 ================================ */
-get_header(); ?>
+get_header();
 
+include 'views/default-post.php';
 
-
-<?php get_footer(); ?>
+get_footer(); ?>

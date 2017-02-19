@@ -1,8 +1,8 @@
 <?php
-/* Default Category Page
+/* 404 page
 ================================ */
 get_header();
 
-include 'views/default-category.php';
+include 'views/404.php';
 
 get_footer(); ?>

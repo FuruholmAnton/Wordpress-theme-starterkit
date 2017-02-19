@@ -1,2 +1,2 @@
 <?php
-include 'modules/footer.php';
+include 'views/modules/footer.php';
